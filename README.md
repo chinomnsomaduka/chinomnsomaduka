@@ -44,4 +44,5 @@ Here are some ideas to get you started:
 
 
 **Connect with me on [LinkedIn](https://www.linkedin.com/in/chinomnsomaduka/)!**
+
 ![LinkedIn](https://media.giphy.com/media/47tmHfoHYrDXi/giphy.gif)
