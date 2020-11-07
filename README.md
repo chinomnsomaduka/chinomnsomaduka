@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **Work Experience:**
 
 :computer:  Data Engineer at [Accenture](https://github.com/Accenture).
-![Laptop](https://static.toiimg.com/photo/msid-75846100/75846100.jpg)
+  ![Laptop](https://static.toiimg.com/photo/msid-75846100/75846100.jpg)
 
 
 **Experience includes:**
@@ -28,16 +28,17 @@ Here are some ideas to get you started:
 - Cloud Technologies (Data Lake, [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/en-us/), [Google Cloud](https://cloud.google.com/), and etc.) 
 - Open source technologies (Spark, Kafka, Presto, Hive, Cassandra, and etc.)
 - SQL and/or NOSQL databases.
+- Programming Languages (Python, R, and etc.)
+  ![Python](https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
+- Aritificial Intelligence (AI), 
+- Machine Learning (ML), 
+- Deep Learning (DL), 
+- Natural Language Processing (NLP) 
+  ![AI](https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif)
 
-Aritificial Intelligence (AI), 
-Machine Learning (ML), 
-Deep Learning (DL), 
-Natural Language Processing (NLP) 
-![AI](https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif)
-
-- Experienced in identifying actionable KPI to scale business iniatives utilizing business intellegence tools such as as Microsoft Power BI and Tableau.  
-![Data Visualization](https://miro.medium.com/max/2376/0*HijaV6P2wiQ4EcFm.gif)
+- Business intellegence/ Data Visualization tools (Microsoft Power BI, Tableau, and etc.)
+  ![Data Visualization](https://miro.medium.com/max/2376/0*HijaV6P2wiQ4EcFm.gif)
 
 **Connect with me:**
 [LinkedIn](https://www.linkedin.com/in/chinomnsomaduka/)
