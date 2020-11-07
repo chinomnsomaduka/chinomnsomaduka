@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Data Engineer at [Accenture](https://github.com/Accenture) [logo](https://www.kindpng.com/free/accenture-logo/)
+I am a Data Engineer at [Accenture](https://github.com/Accenture). 
+
+I am currently working on projects involving the use of Aritificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP) and Cloud Computing ([AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/en-us/), [Google Cloud](https://cloud.google.com/)) technologies.
