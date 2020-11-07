@@ -42,5 +42,6 @@ Here are some ideas to get you started:
 - Business intellegence/ Data Visualization tools (Microsoft Power BI, Tableau, and etc.)
   ![Data Visualization](https://miro.medium.com/max/2376/0*HijaV6P2wiQ4EcFm.gif)
 
-**Connect with me:**
-[LinkedIn](https://www.linkedin.com/in/chinomnsomaduka/)
+
+**Connect with me on [LinkedIn](https://www.linkedin.com/in/chinomnsomaduka/)!**
+![LinkedIn](https://media.giphy.com/media/47tmHfoHYrDXi/giphy.gif)
