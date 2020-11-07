@@ -1,4 +1,4 @@
-### Hi there 👋 I am [ChinomnsoMaduka](https://github.com/chinomnsomaduka)
+### Hi there 👋 I am [ChinomnsoMaduka](https://github.com/chinomnsomaduka) 
 
 <!--
 **chinomnsomaduka/chinomnsomaduka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Data Engineer at [Accenture](https://github.com/Accenture). 
+
+**Work Experience:**
+
+:computer:  Data Engineer at [Accenture](https://github.com/Accenture).
 ![Laptop](https://static.toiimg.com/photo/msid-75846100/75846100.jpg)
 
-I am currently working on projects involving the use of Aritificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP) and Cloud Computing ([AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/en-us/), [Google Cloud](https://cloud.google.com/)) technologies.
+
+**Experience includes:**
+
+- Data Engineering and Big Data Technologies, Data Transformation, and data modeling. 
+- Architecting and building scalable data platforms. 
+- Cloud Technologies (Data Lake, [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/en-us/), [Google Cloud](https://cloud.google.com/), and etc.) 
+- Open source technologies (Spark, Kafka, Presto, Hive, Cassandra, and etc.)
+- SQL and/or NOSQL databases.
+
+
+Aritificial Intelligence (AI), 
+Machine Learning (ML), 
+Deep Learning (DL), 
+Natural Language Processing (NLP) 
 ![AI](https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif)
 
-I am experienced in identifying actionable KPI to scale business iniatives utilizing business intellegence tools such as as Microsoft Power BI and Tableau.  
+- Experienced in identifying actionable KPI to scale business iniatives utilizing business intellegence tools such as as Microsoft Power BI and Tableau.  
 ![Data Visualization](https://miro.medium.com/max/2376/0*HijaV6P2wiQ4EcFm.gif)
 
+**Connect with me:**
 [LinkedIn](https://www.linkedin.com/in/chinomnsomaduka/)
