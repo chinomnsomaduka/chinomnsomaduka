@@ -27,14 +27,16 @@ Here are some ideas to get you started:
 - Architecting and building scalable data platforms. 
 - Cloud Technologies (Data Lake, [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/en-us/), [Google Cloud](https://cloud.google.com/), and etc.) 
 - Open source technologies (Spark, Kafka, Presto, Hive, Cassandra, and etc.)
-- SQL and/or NOSQL databases.
+- SQL and/or NOSQL databases. 
 - Programming Languages (Python, R, and etc.)
+
   ![Python](https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 - Aritificial Intelligence (AI), 
 - Machine Learning (ML), 
 - Deep Learning (DL), 
 - Natural Language Processing (NLP) 
+
   ![AI](https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif)
 
 - Business intellegence/ Data Visualization tools (Microsoft Power BI, Tableau, and etc.)
