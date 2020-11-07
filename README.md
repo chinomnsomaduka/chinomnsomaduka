@@ -22,3 +22,5 @@ I am currently working on projects involving the use of Aritificial Intelligence
 
 I am experienced in identifying actionable KPI to scale business iniatives utilizing business intellegence tools such as as Microsoft Power BI and Tableau.  
 ![Data Visualization](https://miro.medium.com/max/2376/0*HijaV6P2wiQ4EcFm.gif)
+
+[LinkedIn](https://www.linkedin.com/in/chinomnsomaduka/)
