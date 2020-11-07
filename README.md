@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - SQL and/or NOSQL databases.
 - Programming Languages (Python, R, and etc.)
 
-  ![Python](https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+    ![Python](https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 - Aritificial Intelligence (AI), 
 - Machine Learning (ML), 
