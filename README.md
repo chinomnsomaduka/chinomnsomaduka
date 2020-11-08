@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 **Experience includes:**
 
 :electric_plug: Data Engineering and Big Data Technologies, Data Transformation, and data modeling. 
+
 :chart_with_upwards_trend: Architecting and building scalable data platforms. 
 ![Big Data Pipeline](https://miro.medium.com/max/3780/1*HLUYMb0AZYiJaJFjOSn1Tg.png)
 
