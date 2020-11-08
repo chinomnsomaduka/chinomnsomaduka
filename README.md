@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 - Data Engineering and Big Data Technologies, Data Transformation, and data modeling. 
 - Architecting and building scalable data platforms. 
+
 :partly_sunny: Cloud Technologies (Data Lake, [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/en-us/), [Google Cloud](https://cloud.google.com/), and etc.) 
 ![Enterprise Data Lake Architecture](https://www.cloudtp.com/wp-content/uploads/2017/09/architecture_patterns_enterprise_data_lake-14.png)
 
