@@ -28,9 +28,13 @@ Here are some ideas to get you started:
 - Cloud Technologies (Data Lake, [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/en-us/), [Google Cloud](https://cloud.google.com/), and etc.) 
 - Open source technologies (Spark, Kafka, Presto, Hive, Cassandra, and etc.)
 - SQL and/or NOSQL databases. 
-- Programming Languages (Python, R, and etc.)
+  ![SQL](https://code.visualstudio.com/assets/docs/languages/tsql/intellisense.gif) 
 
+- Programming Languages (Python, R, and etc.)
   ![Python](https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+  
+  Including Scala
+  ![Scala](https://miro.medium.com/max/2920/0*E0_ni_BXft9nVYCo.)
 
 - Aritificial Intelligence (AI), 
 - Machine Learning (ML), 
