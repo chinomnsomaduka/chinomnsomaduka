@@ -34,23 +34,32 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 - [Data Lake](https://www.snowflake.com/workloads/data-lake/)
 - [AWS](https://aws.amazon.com/)
 - [Azure](https://azure.microsoft.com/en-us/)
-- [Google Cloud](https://cloud.google.com/), and etc.
+- [Google Cloud](https://cloud.google.com/)
 
-### ![Enterprise Data Lake Architecture](https://www.cloudtp.com/wp-content/uploads/2017/09/architecture_patterns_enterprise_data_lake-14.png)
+### :swimmer: ![Enterprise Data Lake Architecture](https://www.cloudtp.com/wp-content/uploads/2017/09/architecture_patterns_enterprise_data_lake-14.png)
 
-:file_folder: Open source technologies ([Spark](https://spark.apache.org/), [Kafka](https://kafka.apache.org/), [Presto](https://prestosql.io/), [Hive](https://hive.apache.org/), [Cassandra](https://cassandra.apache.org/), and etc.)
-  ![PySpark](https://databricks.com/wp-content/uploads/2018/12/PySpark-1024x164.png)
+### :file_folder: Open source technologies 
+- [Spark](https://spark.apache.org/)
+- [Kafka](https://kafka.apache.org/)
+- [Presto](https://prestosql.io/)
+- [Hive](https://hive.apache.org/)
+- [Cassandra](https://cassandra.apache.org/)
 
-:floppy_disk: [SQL](https://www.iso.org/standard/63555.html), [PostgresSQL](https://www.postgresql.org/), and/or NOSQL databases. 
-  ![SQL](https://code.visualstudio.com/assets/docs/languages/tsql/intellisense.gif) 
+### :floppy_disk: Sever-side technologies
+- [SQL](https://www.iso.org/standard/63555.html) 
+- [PostgresSQL](https://www.postgresql.org/)
+- ![SQL](https://code.visualstudio.com/assets/docs/languages/tsql/intellisense.gif) 
+- NOSQL databases. 
   
 
-:computer: Programming Languages ([Python](https://www.python.org/), [R](https://cran.r-project.org/), and etc.)
+### :computer: Programming Languages 
 
-  ![Python](https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-  
-  Including [Scala](https://www.scala-lang.org/)
-  ![Scala](https://miro.medium.com/max/2920/0*E0_ni_BXft9nVYCo.)
+- [Python](https://www.python.org/)
+- ![Python](https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+- ![PySpark](https://databricks.com/wp-content/uploads/2018/12/PySpark-1024x164.png)
+- [R](https://cran.r-project.org/), and etc.)
+-  [Scala](https://www.scala-lang.org/)
+-  ![Scala](https://miro.medium.com/max/2920/0*E0_ni_BXft9nVYCo.)
 
 - Aritificial Intelligence (AI), 
 - Machine Learning (ML), 
