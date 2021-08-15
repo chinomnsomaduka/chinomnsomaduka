@@ -56,6 +56,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ### :computer: Programming Languages 
 
 - [Python](https://www.python.org/)
+
 ![Python](https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 ![PySpark](https://databricks.com/wp-content/uploads/2018/12/PySpark-1024x164.png)
 - [R](https://cran.r-project.org/)
