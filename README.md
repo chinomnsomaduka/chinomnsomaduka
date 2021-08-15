@@ -57,18 +57,22 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 - [Python](https://www.python.org/)
 - ![Python](https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 - ![PySpark](https://databricks.com/wp-content/uploads/2018/12/PySpark-1024x164.png)
-- [R](https://cran.r-project.org/), and etc.)
+- [R](https://cran.r-project.org/)
 -  [Scala](https://www.scala-lang.org/)
 -  ![Scala](https://miro.medium.com/max/2920/0*E0_ni_BXft9nVYCo.)
 
-- Aritificial Intelligence (AI), 
-- Machine Learning (ML), 
-- Deep Learning (DL), 
+### :brain: Simulation of Human Intelligence in Machines
+- Aritificial Intelligence (AI)
+![AI](https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif) 
+- Machine Learning (ML) 
+- Deep Learning (DL) 
 - Natural Language Processing (NLP) 
 
-  ![AI](https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif)
+  
 
- :chart_with_downwards_trend: Business intellegence/ Data Visualization tools ([Microsoft Power BI](https://powerbi.microsoft.com/en-us/), [Tableau](https://www.tableau.com/), and etc.)
+ #### :chart_with_downwards_trend: Business intellegence/ Data Visualization tools 
+- ([Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
+- [Tableau](https://www.tableau.com/), and etc.)
   ![Data Visualization](https://miro.medium.com/max/2376/0*HijaV6P2wiQ4EcFm.gif)
 
 
