@@ -48,18 +48,19 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ### :floppy_disk: Sever-side technologies
 - [SQL](https://www.iso.org/standard/63555.html) 
 - [PostgresSQL](https://www.postgresql.org/)
-- ![SQL](https://code.visualstudio.com/assets/docs/languages/tsql/intellisense.gif) 
 - NOSQL databases. 
+![SQL](https://code.visualstudio.com/assets/docs/languages/tsql/intellisense.gif) 
+
   
 
 ### :computer: Programming Languages 
 
 - [Python](https://www.python.org/)
-- ![Python](https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-- ![PySpark](https://databricks.com/wp-content/uploads/2018/12/PySpark-1024x164.png)
+![Python](https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![PySpark](https://databricks.com/wp-content/uploads/2018/12/PySpark-1024x164.png)
 - [R](https://cran.r-project.org/)
 -  [Scala](https://www.scala-lang.org/)
--  ![Scala](https://miro.medium.com/max/2920/0*E0_ni_BXft9nVYCo.)
+![Scala](https://miro.medium.com/max/2920/0*E0_ni_BXft9nVYCo.)
 
 ### :brain: Simulation of Human Intelligence in Machines
 - Aritificial Intelligence (AI)
@@ -72,8 +73,8 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
  #### :chart_with_downwards_trend: Business intellegence/ Data Visualization tools 
 - ([Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
-- [Tableau](https://www.tableau.com/), and etc.)
-  ![Data Visualization](https://miro.medium.com/max/2376/0*HijaV6P2wiQ4EcFm.gif)
+- [Tableau](https://www.tableau.com/)
+![Data Visualization](https://miro.medium.com/max/2376/0*HijaV6P2wiQ4EcFm.gif)
 
 
 :iphone: **Connect with me on [LinkedIn](https://www.linkedin.com/in/chinomnsomaduka/)!**
