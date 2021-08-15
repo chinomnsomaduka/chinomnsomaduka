@@ -1,4 +1,4 @@
-### Hi there! I am :octocat:[ChinomnsoMaduka](https://github.com/chinomnsomaduka):octocat:
+# Hi there! I am :octocat:[ChinomnsoMaduka](https://github.com/chinomnsomaduka):octocat:
 
 <!--
 **chinomnsomaduka/chinomnsomaduka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Work Experience:**
+## Work Experience:
 
 :computer:  Data Engineer at [Accenture](https://github.com/Accenture).
   ![Laptop](https://static.toiimg.com/photo/msid-75846100/75846100.jpg)
 
 
-**Experience includes:**
+## Experience includes:
 
 :electric_plug: Data Engineering and Big Data Technologies, Data Transformation, and data modeling. 
 
