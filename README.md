@@ -1,4 +1,4 @@
-# Hi there! I am :octocat:[Chinomnso Maduka](https://github.com/chinomnsomaduka), MS, CSM, CSPO, CSSMBB, CASF, ISO/IEC 27001:octocat:
+# Hi there! I am :octocat:[Chinomnso Maduka](https://github.com/chinomnsomaduka):octocat:
 
 <!--
 **chinomnsomaduka/chinomnsomaduka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -89,7 +89,20 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ![US Traffic Accidents -Tableau](https://d3j021pzfm19r2.cloudfront.net/wp-content/uploads/2021/03/GIF-Tableau.gif)
 ![Data Visualization](https://miro.medium.com/max/2376/0*HijaV6P2wiQ4EcFm.gif)
 
+## :school: Education 
 
+- Masters in Applied Information Technology
+- Bachelors in Applied & Computational Mathematics
+
+## :notebook: Certification
+- [ISO/IEC 27001 Information Security Associate](https://www.skillfront.com/certifications/SkillFront-SFE0160e4e8b14b2-35069867946633.pdf)
+- [Certified Associate in Scrom Fundamentals (CASF)](https://www.skillfront.com/certifications/SkillFront-SFE005c521996a28-78053604487705.pdf)
+- [Certified Scrum Master (CSM)](https://www.scrum-institute.org/certifications/Scrum-Institute.org-SMACfd979283ef-91705715079326.pdf)
+- [Certified Scrum Product Owner (CSPO)](https://www.scrum-institute.org/certifications/Scrum-Institute.org-SPOAC6a1f3bde24-32751518130768.pdf)
+- [Certified Six Sigma Master Black Belt (CSSMBB)](https://www.sixsigma-institute.org/certifications/SixSigma-Institute.org-CSSMBB2f0cdf8809-43704859649762.pdf
+
+
+## :family: Network
 :iphone: **Connect with me on [LinkedIn](https://www.linkedin.com/in/chinomnsomaduka/)!**
 
 ![LinkedIn](https://media.giphy.com/media/47tmHfoHYrDXi/giphy.gif)
