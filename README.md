@@ -99,7 +99,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 - [Certified Associate in Scrom Fundamentals (CASF)](https://www.skillfront.com/certifications/SkillFront-SFE005c521996a28-78053604487705.pdf)
 - [Certified Scrum Master (CSM)](https://www.scrum-institute.org/certifications/Scrum-Institute.org-SMACfd979283ef-91705715079326.pdf)
 - [Certified Scrum Product Owner (CSPO)](https://www.scrum-institute.org/certifications/Scrum-Institute.org-SPOAC6a1f3bde24-32751518130768.pdf)
-- [Certified Six Sigma Master Black Belt (CSSMBB)](https://www.sixsigma-institute.org/certifications/SixSigma-Institute.org-CSSMBB2f0cdf8809-43704859649762.pdf
+- [Certified Six Sigma Master Black Belt (CSSMBB)](https://www.sixsigma-institute.org/certifications/SixSigma-Institute.org-CSSMBB2f0cdf8809-43704859649762.pdf)
 
 
 ## :family: Network
