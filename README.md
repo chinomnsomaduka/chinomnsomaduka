@@ -79,9 +79,9 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
  #### :chart_with_downwards_trend: Business intellegence/ Data Visualization tools 
 - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
 - ![Microsoft Power BI](https://databackwriter.files.wordpress.com/2017/02/8507-livereporttile.gif)
-- ![Tableau](https://www.tableau.com/)
+- [Tableau](https://www.tableau.com/)
 - ![Tableau](https://media0.giphy.com/media/3oKIPrzoi6rbZc4aDC/giphy.gif)
-- [US Traffic Accidents -Tableau](https://d3j021pzfm19r2.cloudfront.net/wp-content/uploads/2021/03/GIF-Tableau.gif)
+- ![US Traffic Accidents -Tableau](https://d3j021pzfm19r2.cloudfront.net/wp-content/uploads/2021/03/GIF-Tableau.gif)
 ![Data Visualization](https://miro.medium.com/max/2376/0*HijaV6P2wiQ4EcFm.gif)
 
 
