@@ -21,9 +21,11 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 :computer:  Chinomnso is a Big Data Engineer at [Accenture](https://github.com/Accenture), with expertise in building large-scale data processing systems and data warehousing solutions. Mr. Maduka is experienced with object-oriented design, coding, testing patterns, and has experience in engineering (commercial and open-source) software platforms and large-scale data infrastructures. Chinomnso has experience with developing and deploying machine learning and natural language processing models to identify patterns and make predictions. He understands how to apply technologies to solve big data problems and to develop innovative big data solutions.
 
-![Laptop](https://static.toiimg.com/photo/msid-75846100/75846100.jpg
+![Laptop](https://static.toiimg.com/photo/msid-75846100/75846100.jpg)
  
 ### :electric_plug: Specializations: Data & Analytics Strategy, Data Engineering, Data Science & Data Visualization 
+
+[Big Data](https://olap.com/wp-content/uploads/2013/11/bigstock-Big-data-concept-in-word-tag-c-49922318-1024x596.jpg)
 
 ### :chart_with_upwards_trend: Architecting and building scalable data platforms. 
 ![Big Data Pipeline](https://miro.medium.com/max/3780/1*HLUYMb0AZYiJaJFjOSn1Tg.png)
