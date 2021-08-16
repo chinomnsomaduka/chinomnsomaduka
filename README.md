@@ -64,6 +64,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ![Scala](https://miro.medium.com/max/2920/0*E0_ni_BXft9nVYCo.)
 
 ### :brain: Simulation of Human Intelligence in Machines
+
 - Aritificial Intelligence (AI)
 ![AI](https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif) 
 - Machine Learning (ML) 
