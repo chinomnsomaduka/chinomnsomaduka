@@ -33,6 +33,9 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 ### :swimmer: Enterprise Data Lake Architecture
  ![Enterprise Data Lake Architecture](https://www.emtec.digital/wp-content/uploads/brizy/50242/assets/images/iW=1120&iH=584&oX=0&oY=0&cW=1120&cH=584/azure-data-lake-solutions-architecture-diagram.png)
+
+### :house: Data Warehousing
+![Data Warehouse](https://www.qlik.com/blog/assets/uploads/images/posts/clive-bearman/data-warehouse-comeback-blog-2.png)
  
 ### Data Modeling
  ![Data Modeling Pyramid](https://cdn.sketchbubble.com/pub/media/catalog/product/optimized/f/9/f9308347ea7907aa6fa7eed6f76b0af18f51e3db86b951b15c826eca58f0e0dd/data-modeling-slide1.png) 
