@@ -25,7 +25,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
  
 ### :electric_plug: Specializations: Data & Analytics Strategy, Data Engineering, Data Science & Data Visualization 
 
-[Big Data](https://olap.com/wp-content/uploads/2013/11/bigstock-Big-data-concept-in-word-tag-c-49922318-1024x596.jpg)
+![Big Data](https://olap.com/wp-content/uploads/2013/11/bigstock-Big-data-concept-in-word-tag-c-49922318-1024x596.jpg)
 
 ### :chart_with_upwards_trend: Architecting and building scalable data platforms. 
 ![Big Data Pipeline](https://miro.medium.com/max/3780/1*HLUYMb0AZYiJaJFjOSn1Tg.png)
