@@ -39,11 +39,12 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ### :swimmer: ![Enterprise Data Lake Architecture](https://www.cloudtp.com/wp-content/uploads/2017/09/architecture_patterns_enterprise_data_lake-14.png)
 
 ### :file_folder: Open source technologies 
-- [Spark](https://spark.apache.org/)
-- [Kafka](https://kafka.apache.org/)
+-![image](https://user-images.githubusercontent.com/17076047/129546835-72b015c2-87e8-4df7-8940-5bd21391da1c.png)
+ [Apache Spark](https://spark.apache.org/) 
+- [Apache Kafka](https://kafka.apache.org/)
 - [Presto](https://prestosql.io/)
-- [Hive](https://hive.apache.org/)
-- [Cassandra](https://cassandra.apache.org/)
+- [Apache Hive](https://hive.apache.org/)
+- [Apache Cassandra](https://cassandra.apache.org/)
 
 ### :floppy_disk: Sever-side technologies
 - [SQL](https://www.iso.org/standard/63555.html) 
