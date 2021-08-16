@@ -31,10 +31,10 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ![Big Data Pipeline](https://miro.medium.com/max/3780/1*HLUYMb0AZYiJaJFjOSn1Tg.png)
 
 ### :cloud: Cloud Technologies 
-- [Data Lake](https://www.snowflake.com/workloads/data-lake/)
-- [AWS](https://aws.amazon.com/)
-- [Azure](https://azure.microsoft.com/en-us/)
+- [Amazon Web Services (AWS)](https://aws.amazon.com/)
+- [Microsoft Azure](https://azure.microsoft.com/en-us/)
 - [Google Cloud](https://cloud.google.com/)
+- [Snowflake Data Lake](https://www.snowflake.com/workloads/data-lake/)
 
 ### :swimmer: ![Enterprise Data Lake Architecture](https://www.cloudtp.com/wp-content/uploads/2017/09/architecture_patterns_enterprise_data_lake-14.png)
 
