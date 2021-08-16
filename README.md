@@ -43,13 +43,6 @@ Commented out older image format verison
 - [Snowflake Data Lake](https://www.snowflake.com/workloads/data-lake/)
 
 ### :swimmer: ![Enterprise Data Lake Architecture](https://www.cloudtp.com/wp-content/uploads/2017/09/architecture_patterns_enterprise_data_lake-14.png)
-  <!--
-Commented out older image format verison
-![Enterprise Data Lake Architecture](https://www.cloudtp.com/wp-content/uploads/2017/09/architecture_patterns_enterprise_data_lake-14.png)
--->
-<center>
-<img src="https://www.cloudtp.com/wp-content/uploads/2017/09/architecture_patterns_enterprise_data_lake-14.png" width="500"><br/>
-<center>
   
 ### :file_folder: Open source technologies 
 - [Apache Spark](https://spark.apache.org/) 
