@@ -21,24 +21,32 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 :computer:  Chinomnso is a Big Data Engineer at [Accenture](https://github.com/Accenture), with expertise in building large-scale data processing systems and data warehousing solutions. Mr. Maduka is experienced with object-oriented design, coding, testing patterns, and has experience in engineering (commercial and open-source) software platforms and large-scale data infrastructures. Chinomnso has experience with developing and deploying machine learning and natural language processing models to identify patterns and make predictions. He understands how to apply technologies to solve big data problems and to develop innovative big data solutions.
 
-  ![Laptop](https://static.toiimg.com/photo/msid-75846100/75846100.jpg)
-
-## 🖥️ Experience includes:
-
+  ![Laptop](https://static.toiimg.com/photo/msid-75846100/75846100.jpg
+ 
 ### :electric_plug: Specializations: Data & Analytics Strategy, Data Engineering, Data Science & Data Visualization 
 
 ### :chart_with_upwards_trend: Architecting and building scalable data platforms. 
 ![Big Data Pipeline](https://miro.medium.com/max/3780/1*HLUYMb0AZYiJaJFjOSn1Tg.png)
 
+### :swimmer: Enterprise Data Lake Architecture
+ ![Enterprise Data Lake Architecture](https://www.emtec.digital/wp-content/uploads/brizy/50242/assets/images/iW=1120&iH=584&oX=0&oY=0&cW=1120&cH=584/azure-data-lake-solutions-architecture-diagram.png)
+ 
+ ### :brain: Simulation of Human Intelligence in Machines
+![AI](https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif) 
+
+- Aritificial Intelligence (AI)
+- (Machine Learning (ML) 
+- Deep Learning (DL) 
+- Natural Language Processing (NLP) 
+- Geographic Information Systems (GIS)
+
+## 🖥️ Technology Stack includes:
 
 ### :cloud: Cloud Technologies 
 - [Amazon Web Services (AWS)](https://aws.amazon.com/)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/)
 - [Google Cloud](https://cloud.google.com/)
 - [Snowflake Data Lake](https://www.snowflake.com/workloads/data-lake/)
-
-### :swimmer: Enterprise Data Lake Architecture
- ![Enterprise Data Lake Architecture](https://www.emtec.digital/wp-content/uploads/brizy/50242/assets/images/iW=1120&iH=584&oX=0&oY=0&cW=1120&cH=584/azure-data-lake-solutions-architecture-diagram.png)
   
 ### :file_folder: Open source technologies 
 - [Apache Spark](https://spark.apache.org/) 
@@ -65,17 +73,6 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 -  [Scala](https://www.scala-lang.org/)
 ![Scala](https://miro.medium.com/max/2920/0*E0_ni_BXft9nVYCo.)
-
-### :brain: Simulation of Human Intelligence in Machines
-![AI](https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif) 
-
-- Aritificial Intelligence (AI)
-- (Machine Learning (ML) 
-- Deep Learning (DL) 
-- Natural Language Processing (NLP) 
-- Geographic Information Systems (GIS)
-
-  
 
  #### :chart_with_downwards_trend: Business intellegence/ Data Visualization tools 
 - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
