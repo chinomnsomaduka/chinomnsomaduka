@@ -25,7 +25,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 ## 🖥️ Experience includes:
 
-### :electric_plug: Data Engineering and Big Data Technologies, Data Transformation, and data modeling. 
+### :electric_plug: Specializations: Data & Analytics Strategy, Data Engineering, Data Science & Data Visualization 
 
 ### :chart_with_upwards_trend: Architecting and building scalable data platforms. 
 ![Big Data Pipeline](https://miro.medium.com/max/3780/1*HLUYMb0AZYiJaJFjOSn1Tg.png)
@@ -64,12 +64,13 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ![Scala](https://miro.medium.com/max/2920/0*E0_ni_BXft9nVYCo.)
 
 ### :brain: Simulation of Human Intelligence in Machines
+![AI](https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif) 
 
 - Aritificial Intelligence (AI)
-![AI](https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif) 
-- Machine Learning (ML) 
+- (Machine Learning (ML) 
 - Deep Learning (DL) 
 - Natural Language Processing (NLP) 
+- Geographic Information Systems (GIS)
 
   
 
