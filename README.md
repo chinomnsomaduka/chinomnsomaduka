@@ -55,7 +55,7 @@ Commented out older image format verison
 ### :floppy_disk: Sever-side technologies
 - [SQL](https://www.iso.org/standard/63555.html) 
 - [PostgresSQL](https://www.postgresql.org/)
-- NOSQL databases.
+- NOSQL databases
   <!--
 Commented out older image format verison
 ![SQL](https://code.visualstudio.com/assets/docs/languages/tsql/intellisense.gif)
