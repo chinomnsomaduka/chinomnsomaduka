@@ -42,7 +42,8 @@ Commented out older image format verison
 - [Google Cloud](https://cloud.google.com/)
 - [Snowflake Data Lake](https://www.snowflake.com/workloads/data-lake/)
 
-### :swimmer: ![Enterprise Data Lake Architecture](https://www.cloudtp.com/wp-content/uploads/2017/09/architecture_patterns_enterprise_data_lake-14.png)
+### :swimmer: Enterprise Data Lake Architecture
+ ![Enterprise Data Lake Architecture](https://www.emtec.digital/wp-content/uploads/brizy/50242/assets/images/iW=1120&iH=584&oX=0&oY=0&cW=1120&cH=584/azure-data-lake-solutions-architecture-diagram.png)
   
 ### :file_folder: Open source technologies 
 - [Apache Spark](https://spark.apache.org/) 
@@ -66,22 +67,39 @@ Commented out older image format verison
   
 
 ### :computer: Programming Languages 
-<!--
 - [Python](https://www.python.org/)
--->
-
+  <!--
+Commented out older image format verison
 ![Python](https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
+-->
 <center>
 <img src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"><br/>
 <center>
 
 ![PySpark](https://databricks.com/wp-content/uploads/2018/12/PySpark-1024x164.png)
 - [R](https://cran.r-project.org/)
+  <!--
+Commented out older image format verison
 ![R Studio](https://bookdown.org/chesterismay/rbasics/gifs/share_proj.gif)
--![R Custom Tracker Report](https://media.giphy.com/media/vwicMYfRPL6YuRQGfo/giphy.gif)
+-->
+<center>
+<img src="https://bookdown.org/chesterismay/rbasics/gifs/share_proj.gif" width="500"><br/>
+<center>
+  <!--
+Commented out older image format verison
+![R Custom Tracker Report](https://media.giphy.com/media/vwicMYfRPL6YuRQGfo/giphy.gif)
+-->
+<center>
+<img src="https://media.giphy.com/media/vwicMYfRPL6YuRQGfo/giphy.gif" width="500"><br/>
+<center> 
 -  [Scala](https://www.scala-lang.org/)
+  <!--
+Commented out older image format verison
 ![Scala](https://miro.medium.com/max/2920/0*E0_ni_BXft9nVYCo.)
+-->
+<center>
+<img src="https://miro.medium.com/max/2920/0*E0_ni_BXft9nVYCo." width="500"><br/>
+<center>
 
 ### :brain: Simulation of Human Intelligence in Machines
 ![AI](https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif) 
