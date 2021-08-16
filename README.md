@@ -28,13 +28,8 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ### :electric_plug: Specializations: Data & Analytics Strategy, Data Engineering, Data Science & Data Visualization 
 
 ### :chart_with_upwards_trend: Architecting and building scalable data platforms. 
-<!--
-Commented out older image format verison
 ![Big Data Pipeline](https://miro.medium.com/max/3780/1*HLUYMb0AZYiJaJFjOSn1Tg.png)
--->
-<center>
-<img src="https://miro.medium.com/max/3780/1*HLUYMb0AZYiJaJFjOSn1Tg.png" width="500"><br/>
-<center>
+
 
 ### :cloud: Cloud Technologies 
 - [Amazon Web Services (AWS)](https://aws.amazon.com/)
@@ -58,43 +53,15 @@ Commented out older image format verison
 - NOSQL databases
 ![SQL](https://code.visualstudio.com/assets/docs/languages/tsql/intellisense.gif)
 
-
-  
-
 ### :computer: Programming Languages 
 - [Python](https://www.python.org/)
-  <!--
-Commented out older image format verison
 ![Python](https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
--->
-<center>
-<img src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"><br/>
-<center>
-
 ![PySpark](https://databricks.com/wp-content/uploads/2018/12/PySpark-1024x164.png)
 - [R](https://cran.r-project.org/)
-  <!--
-Commented out older image format verison
 ![R Studio](https://bookdown.org/chesterismay/rbasics/gifs/share_proj.gif)
--->
-<center>
-<img src="https://bookdown.org/chesterismay/rbasics/gifs/share_proj.gif" width="500"><br/>
-<center>
-  <!--
-Commented out older image format verison
 ![R Custom Tracker Report](https://media.giphy.com/media/vwicMYfRPL6YuRQGfo/giphy.gif)
--->
-<center>
-<img src="https://media.giphy.com/media/vwicMYfRPL6YuRQGfo/giphy.gif" width="500"><br/>
-<center> 
 -  [Scala](https://www.scala-lang.org/)
-  <!--
-Commented out older image format verison
 ![Scala](https://miro.medium.com/max/2920/0*E0_ni_BXft9nVYCo.)
--->
-<center>
-<img src="https://miro.medium.com/max/2920/0*E0_ni_BXft9nVYCo." width="500"><br/>
-<center>
 
 ### :brain: Simulation of Human Intelligence in Machines
 ![AI](https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif) 
