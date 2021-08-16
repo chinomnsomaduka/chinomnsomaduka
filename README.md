@@ -28,7 +28,13 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ### :electric_plug: Specializations: Data & Analytics Strategy, Data Engineering, Data Science & Data Visualization 
 
 ### :chart_with_upwards_trend: Architecting and building scalable data platforms. 
+<!--
+Commented out older image format verison
 ![Big Data Pipeline](https://miro.medium.com/max/3780/1*HLUYMb0AZYiJaJFjOSn1Tg.png)
+-->
+<center>
+<img src="https://miro.medium.com/max/3780/1*HLUYMb0AZYiJaJFjOSn1Tg.png" width="500"><br/>
+<center>
 
 ### :cloud: Cloud Technologies 
 - [Amazon Web Services (AWS)](https://aws.amazon.com/)
@@ -37,7 +43,14 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 - [Snowflake Data Lake](https://www.snowflake.com/workloads/data-lake/)
 
 ### :swimmer: ![Enterprise Data Lake Architecture](https://www.cloudtp.com/wp-content/uploads/2017/09/architecture_patterns_enterprise_data_lake-14.png)
-
+  <!--
+Commented out older image format verison
+![Enterprise Data Lake Architecture](https://www.cloudtp.com/wp-content/uploads/2017/09/architecture_patterns_enterprise_data_lake-14.png)
+-->
+<center>
+<img src="https://www.cloudtp.com/wp-content/uploads/2017/09/architecture_patterns_enterprise_data_lake-14.png" width="500"><br/>
+<center>
+  
 ### :file_folder: Open source technologies 
 - [Apache Spark](https://spark.apache.org/) 
 - [Apache Kafka](https://kafka.apache.org/)
@@ -54,8 +67,9 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
   
 
 ### :computer: Programming Languages 
-
+<!--
 - [Python](https://www.python.org/)
+-->
 
 ![Python](https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
