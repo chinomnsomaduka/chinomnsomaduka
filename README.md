@@ -60,6 +60,8 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ![Python](https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 ![PySpark](https://databricks.com/wp-content/uploads/2018/12/PySpark-1024x164.png)
 - [R](https://cran.r-project.org/)
+![R Studio](https://bookdown.org/chesterismay/rbasics/gifs/share_proj.gif)
+-![R Custom Tracker Report](https://media.giphy.com/media/vwicMYfRPL6YuRQGfo/giphy.gif)
 -  [Scala](https://www.scala-lang.org/)
 ![Scala](https://miro.medium.com/max/2920/0*E0_ni_BXft9nVYCo.)
 
