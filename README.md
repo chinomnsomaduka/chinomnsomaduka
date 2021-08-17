@@ -49,6 +49,11 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 - Natural Language Processing (NLP) 
 - Geographic Information Systems (GIS)
 
+### Continuous Intergration (CI) / Continuous Deployment (CD) Pipelines
+![DevOps Methodology](http://blog.unboxinnovations.com/wp-content/uploads/2019/10/devops-1.gif)
+![DevOps Tools](https://www.osolabs.com/wp-content/uploads/2019/09/devops-tools.png)
+![DevOps Catalysts](https://devopscatalysts.com/img/portfolio/web2.png)
+
 ## 🖥️ Technology Stack includes:
 
 ### :cloud: Cloud Technologies 
