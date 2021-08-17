@@ -44,10 +44,11 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ![AI](https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif) 
 
 - Aritificial Intelligence (AI)
-- (Machine Learning (ML) 
+- Machine Learning (ML) 
 - Deep Learning (DL) 
 - Natural Language Processing (NLP) 
 - Geographic Information Systems (GIS)
+![ArcGIS Pro](https://community.esri.com/legacyfs/online/487182_ArcGIS%20Pro%20Issue.gif)
 
 ### Continuous Intergration (CI) / Continuous Deployment (CD) Pipelines
 ![DevOps Methodology](http://blog.unboxinnovations.com/wp-content/uploads/2019/10/devops-1.gif)
