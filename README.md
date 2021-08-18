@@ -85,6 +85,7 @@ Commented this section out for personal future references
 - [PostgresSQL](https://www.postgresql.org/)
 - NOSQL databases
 ![SQL](https://code.visualstudio.com/assets/docs/languages/tsql/intellisense.gif)
+![SQL](https://media.giphy.com/media/3o7bugWhds34OM5E9q/giphy.gif)
 
 ### :computer: Programming Languages 
 - [Python](https://www.python.org/)
@@ -95,9 +96,6 @@ Commented this section out for personal future references
 - [R](https://cran.r-project.org/)
 ![R Studio](https://bookdown.org/chesterismay/rbasics/gifs/share_proj.gif)
 ![R Custom Tracker Report](https://media.giphy.com/media/vwicMYfRPL6YuRQGfo/giphy.gif)
-
-- [SQL/PostgreSQL](https://www.postgresql.org/)
-![SQL](https://media.giphy.com/media/3o7bugWhds34OM5E9q/giphy.gif)
 
 -  [Scala](https://www.scala-lang.org/)
 ![Scala](https://miro.medium.com/max/2920/0*E0_ni_BXft9nVYCo.)
