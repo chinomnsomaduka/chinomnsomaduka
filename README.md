@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
-at [Accenture](https://github.com/Accenture),
 -->
 
+<!--
 ## 💼 Work Experience:
 
-:computer:  Chinomnso is a Big Data Engineer with expertise in building large-scale data processing systems and data warehousing solutions. Mr. Maduka is experienced with object-oriented design, coding, testing patterns, and has experience in engineering (commercial and open-source) software platforms and large-scale data infrastructures. Chinomnso has experience with developing and deploying machine learning and natural language processing models to identify patterns and make predictions. He understands how to apply technologies to solve big data problems and to develop innovative big data solutions.
+:computer:  Chinomnso is a Big Data Engineer at [Accenture](https://github.com/Accenture), with expertise in building large-scale data processing systems and data warehousing solutions. Mr. Maduka is experienced with object-oriented design, coding, testing patterns, and has experience in engineering (commercial and open-source) software platforms and large-scale data infrastructures. Chinomnso has experience with developing and deploying machine learning and natural language processing models to identify patterns and make predictions. He understands how to apply technologies to solve big data problems and to develop innovative big data solutions.
 
 ![Laptop](https://static.toiimg.com/photo/msid-75846100/75846100.jpg)
  
@@ -128,3 +128,5 @@ Commented this section out for personal future references
 :iphone: **Connect with me on [LinkedIn](https://www.linkedin.com/in/chinomnsomaduka/)!**
 
 ![LinkedIn](https://media.giphy.com/media/47tmHfoHYrDXi/giphy.gif)
+
+-->
