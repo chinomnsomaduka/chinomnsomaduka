@@ -59,7 +59,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 Commented this section out for personal future references
 ![DevOps Catalysts](https://devopscatalysts.com/img/portfolio/web2.png)
 -->
-
+<!--
 ## Software Development Methodologies
 - Agile
  ![Agile Project Management Methodology — Manifesto, Frameworks and Process](https://miro.medium.com/max/1400/0*jlUybkZYz6yxWtdk.jpg)
