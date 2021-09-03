@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
-
 -->
 
-<!--
+
 ## 💼 Work Experience:
 
 :computer:  Chinomnso is a Big Data Engineer at [Accenture](https://github.com/Accenture), with expertise in building large-scale data processing systems and data warehousing solutions. Mr. Maduka is experienced with object-oriented design, coding, testing patterns, and has experience in engineering (commercial and open-source) software platforms and large-scale data infrastructures. Chinomnso has experience with developing and deploying machine learning and natural language processing models to identify patterns and make predictions. He understands how to apply technologies to solve big data problems and to develop innovative big data solutions.
@@ -59,13 +58,12 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 Commented this section out for personal future references
 ![DevOps Catalysts](https://devopscatalysts.com/img/portfolio/web2.png)
 -->
-<!--
+
 ## Software Development Methodologies
 - Agile
  ![Agile Project Management Methodology — Manifesto, Frameworks and Process](https://miro.medium.com/max/1400/0*jlUybkZYz6yxWtdk.jpg)
  ![Product Owners Role in Agile Teams](https://intersog.com/wp-content/uploads/2017/05/the-team.gif)
 - Kanban
-
 
 ## 🖥️ Technology Stack includes:
 
@@ -128,5 +126,3 @@ Commented this section out for personal future references
 :iphone: **Connect with me on [LinkedIn](https://www.linkedin.com/in/chinomnsomaduka/)!**
 
 ![LinkedIn](https://media.giphy.com/media/47tmHfoHYrDXi/giphy.gif)
-
--->
