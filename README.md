@@ -20,7 +20,21 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 ## 💼 Work Experience:
 
-:computer:  Chinomnso is a Big Data Engineer at [Accenture](https://github.com/Accenture), with expertise in building large-scale data processing systems and data warehousing solutions. Mr. Maduka is experienced with object-oriented design, coding, testing patterns, and has experience in engineering (commercial and open-source) software platforms and large-scale data infrastructures. Chinomnso has experience with developing and deploying machine learning and natural language processing models to identify patterns and make predictions. He understands how to apply technologies to solve big data problems and to develop innovative big data solutions.
+:computer:  Chinomnso Maduka is a highly accomplished Senior Big Data Engineer at [Accenture](https://github.com/Accenture), renowned for his expertise in building large-scale data processing systems and designing robust data warehousing solutions. With a strong foundation in Computer Science, Chinomnso has amassed over a decade of experience, leaving an indelible mark in the dynamic field of data engineering.
+
+Mr. Maduka's proficiency extends across the spectrum of data engineering, from object-oriented design and coding to implementing testing patterns in complex environments. His wealth of experience includes engineering both commercial and open-source software platforms, showcasing his versatility in adapting to diverse technological landscapes.
+
+One of Chinomnso's standout strengths lies in his mastery of large-scale data infrastructures. He has consistently demonstrated his ability to architect and implement data processing systems that efficiently handle vast amounts of information, ensuring optimal performance and scalability. His contributions in the realm of data warehousing solutions have empowered organizations to glean actionable insights from their data assets.
+
+In addition to his prowess in infrastructure engineering, Chinomnso Maduka stands out for his expertise in developing and deploying machine learning and natural language processing models. His ability to identify patterns and make predictions through advanced analytics has proven invaluable in deriving meaningful insights from complex datasets.
+
+Chinomnso possesses a deep understanding of applying cutting-edge technologies to solve big data problems. His innovative approach to developing solutions for complex data challenges has positioned him as a thought leader in the industry. His commitment to staying abreast of emerging trends ensures that he consistently brings state-of-the-art solutions to the table.
+
+Beyond technical excellence, Mr. Maduka is known for his collaborative spirit and effective communication. His ability to bridge the gap between technical intricacies and business requirements has made him a sought-after team member in cross-functional environments.
+
+As a forward-thinking Senior Big Data Engineer, Chinomnso Maduka continues to push the boundaries of what is achievable in the realm of big data. His dedication to innovation and his comprehensive skill set make him a driving force in the evolution of data engineering, where he remains at the forefront of creating transformative solutions for the challenges of tomorrow.
+
+
 
 ![Laptop](https://static.toiimg.com/photo/msid-75846100/75846100.jpg)
  
