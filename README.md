@@ -47,10 +47,10 @@ As a forward-thinking Senior Big Data Engineer, Chinomnso Maduka continues to pu
 ![Big Data Pipeline](https://miro.medium.com/max/3780/1*HLUYMb0AZYiJaJFjOSn1Tg.png)
 
 ### :swimmer: Enterprise Data Lake Architecture
- ![Enterprise Data Lake Architecture](https://www.emtec.digital/wp-content/uploads/brizy/50242/assets/images/iW=1120&iH=584&oX=0&oY=0&cW=1120&cH=584/azure-data-lake-solutions-architecture-diagram.png)
+ ![Enterprise Data Lake Architecture](https://www.chaossearch.io/hs-fs/hubfs/C2020/Graphics/Blog/Data%20Lake%20vs%20Data%20Warehouse/Data%20Warehouse%20Architecture%20Sample.png?width=1269&name=Data%20Warehouse%20Architecture%20Sample.png)
 
 ### :house: Data Warehousing
-![Data Warehouse](https://www.qlik.com/blog/assets/uploads/images/posts/clive-bearman/data-warehouse-comeback-blog-2.png)
+![Data Warehouse](https://www.snaplogic.com/wp-content/uploads/2023/04/Classic-data-warehouse-diagram-1-1536x1010.png)
  
 ### Data Modeling
  ![Data Modeling Pyramid](https://cdn.sketchbubble.com/pub/media/catalog/product/optimized/f/9/f9308347ea7907aa6fa7eed6f76b0af18f51e3db86b951b15c826eca58f0e0dd/data-modeling-slide1.png) 
@@ -67,7 +67,7 @@ As a forward-thinking Senior Big Data Engineer, Chinomnso Maduka continues to pu
 
 ### Continuous Intergration (CI) / Continuous Deployment (CD) Pipelines
 ![DevOps Methodology](http://blog.unboxinnovations.com/wp-content/uploads/2019/10/devops-1.gif)
-![DevOps Tools](https://www.osolabs.com/wp-content/uploads/2019/09/devops-tools.png)
+![DevOps Tools](https://media.licdn.com/dms/image/v2/D5612AQGZ5xbL_-3vQQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1668644240171?e=2147483647&v=beta&t=m-fpfLByh3xI21GqFgYOEoRzqlKZQlLDU6QXHVwm_mk)
 <!-- 
 Commented this section out for personal future references
 ![DevOps Catalysts](https://devopscatalysts.com/img/portfolio/web2.png)
